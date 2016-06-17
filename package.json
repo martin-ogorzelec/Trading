@@ -1,0 +1,10 @@
+{
+  "name": "Trading",
+  "main": "server.js",
+  "dependencies": {
+	  "express": "latest",
+	  "ejs": "latest",
+	  "angular": "latest"
+  }
+  
+}
